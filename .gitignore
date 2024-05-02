@@ -1,0 +1,10 @@
+.env
+
+__pycache__
+
+images/
+test_results/
+test_table_files/
+chatgpt_responses/
+
+test.py
