@@ -42,10 +42,6 @@ def main():
             score += 1
             break
 
-      with open(f"../test_results/matched_comparison_list/{df.iloc[index]['Test ID']}[{category}].txt", 'w', encoding="utf-8") as outfile:
-        for line in comparisonList:
-          outfile.write(f"{line}\n")
-
       if(score == totalScore):
         testResult.append(f"[{category} : Pass : {score}/{totalScore}]")
       else:
@@ -57,3 +53,4 @@ def main():
     df.at[index, 'Failed Test By Category'] = "\n".join(failedTest)
 
   df.to_csv('../test_table_files/03-chatgpt_text_extraction_results.csv')
+
