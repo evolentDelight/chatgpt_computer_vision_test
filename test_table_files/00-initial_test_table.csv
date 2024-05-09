@@ -1,0 +1,254 @@
+Test ID,Court Record Type,Image Type,Data Augmentation,base64_image,image_file_type,Expected Extracted Text,Actual Extracted Text,Category To Test,Text By Category,Test Result By Category,Failed Test By Category,Expected Output: Classification,Actual Output: Classification,Points Correct: Classification,Classification Test Result
+1,Criminal Docket 1,Digital,Unedited,,png,"Magisterial District Judge 12-3-05
+DOCKET
+Docket Number: MJ-12305-CR-0000199-2011
+Criminal Docket
+Commonwealth of Pennsylvania
+v.
+Kelsey Elva Lefever
+CASE INFORMATION
+Judge Assigned:
+Lowell A. Witmer
+Issue Date:
+11/16/2011
+OTN:
+T 114170-0
+File Date:
+11/16/2011
+Arresting Agency:
+PSP, Bur Criminal In
+Arrest Date:
+Complaint/Incident #
+H012031128
+Disposition:
+Waived for Court
+County:
+Dauphin
+Disposition Date:
+02/21/2012
+Township:
+East Hanover Township
+Case Status:
+Closed
+STATUS INFORMATION
+Case Status
+Closed
+Status Date
+03/09/2012
+02/21/2012
+11/22/2011
+11/16/2011
+Processing Status
+Case Transferred to Court of Common Pleas
+Completed
+Awaiting Preliminary Hearing
+Awaiting Preliminary Hearing
+CALENDAR EVENTS
+Case Calendar Event Type
+Preliminary Arraignment
+Preliminary Hearing
+Preliminary Hearing
+Preliminary Hearing
+Formal Arraignment
+Schedule Start Date
+11/22/2011
+12/02/2011
+02/06/2012
+02/21/2012
+04/19/2012
+Start Time
+11:30 am
+10:00 am
+11:00 am
+2:30 pm
+8:30 am
+Room
+Jury Assembly Room
+Judge Name
+Lowell A. Witmer
+Lowell A. Witmer
+Lowell A. Witmer
+Lowell A. Witmer
+Schedule Status
+Scheduled
+Continued
+Continued
+Scheduled
+Scheduled
+DEFENDANT INFORMATION
+Name:
+Lefever, Kelsey Elva
+Sex:
+Female
+Date of Birth:
+10/26/1987
+Race:
+White
+Address(es):
+Primary
+Honeybrook, PA 19344",,"Title
+Docket
+Case Information
+Status Information
+Calendar Events
+Defendant Information","Magisterial District Judge 12-3-05
+DOCKET Docket Number: MJ-12305-CR-0000199-2011 Criminal Docket Commonwealth of Pennsylvania v. Kelsey Elva Lefever
+CASE INFORMATION Judge Assigned: Lowell A. Witmer Issue Date: 11/16/2011 OTN: T 114170-0 File Date: 11/16/2011 Arresting Agency: PSP, Bur Criminal In Arrest Date: Complaint/Incident # H012031128 Disposition: Waived for Court County: Dauphin Disposition Date: 02/21/2012 Township: East Hanover Township Case Status: Closed
+STATUS INFORMATION Case Status Closed Status Date 03/09/2012 02/21/2012 11/22/2011 11/16/2011 Processing Status Case Transferred to Court of Common Pleas Completed Awaiting Preliminary Hearing Awaiting Preliminary Hearing
+CALENDAR EVENTS Case Calendar Event Type Preliminary Arraignment Preliminary Hearing Preliminary Hearing Preliminary Hearing Formal Arraignment Schedule Start Date 11/22/2011 12/02/2011 02/06/2012 02/21/2012 04/19/2012 Start Time 11:30 am 10:00 am 11:00 am 2:30 pm 8:30 am Room Jury Assembly Room Judge Name Lowell A. Witmer Lowell A. Witmer Lowell A. Witmer Lowell A. Witmer Schedule Status Scheduled Continued Continued Scheduled Scheduled
+DEFENDANT INFORMATION Name: Lefever, Kelsey Elva Sex: Female Date of Birth: 10/26/1987 Race: White Address(es): Primary Honeybrook, PA 19344",,,Criminal Docket,,,
+2,Criminal Docket 2,Digital,Unedited,,png,"COURT OF COMMON PLEAS OF BUCKS COUNTY
+DOCKET
+Docket Number: CP-09-CR-0002097-1997
+CRIMINAL DOCKET
+Court Case
+Commonwealth of Pennsylvania
+v.
+James M. Ambrose
+CASE INFORMATION
+Judge Assigned: Migrated, Judge
+Date Filed: 04/29/1997
+Initiation Date: 04/29/1997
+OTN: E 898372-6
+LOTN:
+Originating Docket No: CR-2000075-97
+Initial Issuing Authority: Philip J. Daly
+Final Issuing Authority: Philip J. Daly
+Arresting Agency: Warrington Twp Police Dept
+Arresting Officer: Affiant
+Complaint/Citation No.: UNKNOWN
+Incident Number:
+County: Bucks
+Township: Unknown
+Case Local Number Type(s) Criminal ID# Legacy Docket Number
+Case Local Number(s) CR-2000075-97 1997-02097
+STATUS INFORMATION
+Case Status: Closed
+Status Date 04/29/1997
+Processing Status Migrated Case (Closed)
+Complaint Date: 02/14/1997
+DEFENDANT INFORMATION
+Date Of Birth: 07/09/1960
+City/State/Zip: Havertown, PA 19083
+CASE PARTICIPANTS
+Participant Type Defendant
+Name Ambrose, James M.
+CHARGES
+Seq. 1 3 6
+Orig Seq. 1 3 6
+Grade
+Statute
+75 § 3731 §§ A1*
+35 § 780-113 §§ A32
+75 § 3731 §§ A4*
+Statute Description
+Driver Under The Influence Of Alcohol
+Use/Poss Of Drug Paraph
+Dr W/BI Alc Lev .10% Or Greater
+Offense Dt.
+02/07/1997
+02/07/1997
+02/07/1997
+OTN
+E 898372-6
+E 898372-6
+E 898372-6",,"Title
+Docket
+Case Information
+Status Information
+Case Participants
+Defendant Information
+Charges","COURT OF COMMON PLEAS OF BUCKS COUNTY
+DOCKET Docket Number: CP-09-CR-0002097-1997 CRIMINAL DOCKET Court Case Commonwealth of Pennsylvania v. James M. Ambrose
+CASE INFORMATION Judge Assigned: Migrated, Judge Date Filed: 04/29/1997 Initiation Date: 04/29/1997 OTN: E 898372-6 LOTN: Originating Docket No: CR-2000075-97 Initial Issuing Authority: Philip J. Daly Final Issuing Authority: Philip J. Daly Arresting Agency: Warrington Twp Police Dept Arresting Officer: Affiant Complaint/Citation No.: UNKNOWN Incident Number: County: Bucks Township: Unknown Case Local Number Type(s) Criminal ID# Legacy Docket Number Case Local Number(s) CR-2000075-97 1997-02097
+STATUS INFORMATION Case Status: Closed Status Date 04/29/1997 Processing Status Migrated Case (Closed) Complaint Date: 02/14/1997
+DEFENDANT INFORMATION Date Of Birth: 07/09/1960 City/State/Zip: Havertown, PA 19083
+CASE PARTICIPANTS Participant Type Defendant Name Ambrose, James M.
+CHARGES Seq. 1 3 6 Orig Seq. 1 3 6 Grade Statute 75 § 3731 §§ A1* 35 § 780-113 §§ A32 75 § 3731 §§ A4* Statute Description Driver Under The Influence Of Alcohol Use/Poss Of Drug Paraph Dr W/BI Alc Lev .10% Or Greater Offense Dt. 02/07/1997 02/07/1997 02/07/1997 OTN E 898372-6 E 898372-6 E 898372-6",,,Criminal Docket,,,
+3,Criminal Docket 3,Digital,Unedited,,png,"COURT OF COMMON PLEAS OF DAUPHIN COUNTY
+DOCKET
+Docket Number: CP-22-CR-0002365-2017
+CRIMINAL DOCKET
+Court Case
+Commonwealth of Pennsylvania
+v.
+Shayla Lynette Pierce
+CASE INFORMATION
+Judge Assigned: Curcillo, Deborah E.
+Date Filed: 05/05/2017
+Initiation Date: 03/20/2017
+Initial Issuing Authority: Barbara Pianka
+Final Issuing Authority: Barabra Pianka
+Arresting Agency Harrisburg Police Dept
+Arresting Officer: Trovy, Paula A.
+Complaint/Incident #: 161221502002
+Case Local Number Type(s)
+Case Local Number(s)
+STATUS INFORMATION
+Case Status: Closed
+Status Date
+01/04/2018
+12/18/2017
+08/15/2017
+08/01/2017
+05/11/2017
+05/08/2017
+05/05/2017
+05/05/2017
+Processing Status
+Completed
+Awaiting Plea Court
+Awaiting Plea Court
+Awaiting Pre-Trial Conference
+Awaiting Plea Court
+Awaiting Formal Arraignment
+Awaiting Filing of Information
+Awaiting Pre-Trial Conference
+Arrest Date: 04/20/2017
+Complaint Date: 03/20/2017
+CALENDAR EVENTS
+Case Calendar Event Type
+Formal Arraignment
+Plea Court
+Plea Court
+Plea Court
+Plea Court
+Schedule Start Date
+07/07/2017
+08/10/2017
+10/05/2017
+11/30/2017
+01/04/2018
+Start Time
+11:30 am
+8:30 am
+8:30 am
+8:30 am
+8:30 am
+Room
+Jury Assembly Room
+Courtroom 3
+Courtroom 3
+Courtroom 3
+Courtroom 3
+Judge Name
+Judge Deborah E. Curcillo
+Judge Deborah E. Curcillo
+Judge Deborah E. Curcillo
+Judge Deborah E. Curcillo
+Judge Deborah E. Curcillo
+Schedule Status
+Cancelled
+Continued
+Continued
+Moved
+Scheduled",,"Title
+Docket
+Case Information
+Status Information
+Calendar Events","COURT OF COMMON PLEAS OF DAUPHIN COUNTY
+DOCKET Docket Number: CP-22-CR-0002365-2017
+CRIMINAL DOCKET Court Case Commonwealth of Pennsylvania v. Shayla Lynette Pierce
+CASE INFORMATION Judge Assigned: Curcillo, Deborah E. Date Filed: 05/05/2017 Initiation Date: 03/20/2017 Initial Issuing Authority: Barbara Pianka Final Issuing Authority: Barbara Pianka Arresting Agency Harrisburg Police Dept Arresting Officer: Trovy, Paula A. Complaint/Incident #: 161221502002 Case Local Number Type(s) Case Local Number(s)
+STATUS INFORMATION Case Status: Closed Status Date 01/04/2018 12/18/2017 08/15/2017 08/01/2017 05/11/2017 05/08/2017 05/05/2017 05/05/2017 Processing Status Completed Awaiting Plea Court Awaiting Plea Court Awaiting Pre-Trial Conference Awaiting Plea Court Awaiting Formal Arraignment Awaiting Filing of Information Awaiting Pre-Trial Conference Arrest Date: 04/20/2017 Complaint Date: 03/20/2017
+CALENDAR EVENTS Case Calendar Event Type Formal Arraignment Plea Court Plea Court Plea Court Plea Court Schedule Start Date 07/07/2017 08/10/2017 10/05/2017 11/30/2017 01/04/2018 Start Time 11:30 am 8:30 am 8:30 am 8:30 am 8:30 am Room Jury Assembly Room Courtroom 3 Courtroom 3 Courtroom 3 Courtroom 3 Judge Name Judge Deborah E. Curcillo Judge Deborah E. Curcillo Judge Deborah E. Curcillo Judge Deborah E. Curcillo Judge Deborah E. Curcillo Schedule Status Cancelled Continued Continued Moved Scheduled",,,Criminal Docket,,,
